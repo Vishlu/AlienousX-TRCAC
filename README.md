@@ -103,11 +103,11 @@ AlienousX-AI-Agent
 
 ### AI Assistant Interface
 
-![AlienousX Interface](assets/screenshots/agent1.png)
+![AlienousX Home Page](https://github.com/Vishal-Prajapati17/AlienousX-TRCAC/blob/a60ef011c608e23a09c04d88c37d76969fa3ad52/Screenshot%20(109).png)
 
 ### AI Knowledge Network Design
 
-![AlienousX Design](assets/screenshots/agent2.png)
+![AlienousX Interface](https://github.com/Vishal-Prajapati17/AlienousX-TRCAC/blob/a60ef011c608e23a09c04d88c37d76969fa3ad52/Screenshot%20(110).png)
 
 *(Replace image paths with the correct paths in your repository.)*
 
